@@ -13,4 +13,4 @@ How is it designed
 
 Pixel Art Maker is created with HTML, CSS and JavaScript. jQuery library is used to access the DOM elements and make changes. 
 
-Event listener is created for the button submit and ckick on the table cell's.
+Event listener is created for the click on the table cell's.
